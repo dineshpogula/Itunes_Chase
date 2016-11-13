@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_53a7cafd593a1e916c2526b6fb416e63d273dcf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_638f8a89de692f0f6440922e1359d85f3c376e56.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_0666358cd0b0676da1afcff11671dc1582be53e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_2f4fc557e59a1da53cbb1cdc54a41a7d3baf06ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_83c3f0a18f6d211f05e3491e13659540d5c4783a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_8940c1dfe20c413f51c508631bd721112ed383d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_596636badfb3cd9cfbfde90e9a8fcc8d2de7e3ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_33e58a4b7b3dcebd6102ac35d59a4d4b72b69fa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_28f0a3f37ef18b6eece2b1083e7df63638d51f7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_4d23255ef1a5071d665c6fdc6424462b1b2344ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\dinesh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\dinesh\Desktop\itunes_chase\app\build\intermediates\pre-dexed\debug\gson-2.8.0_37c5c6611cb0158c342fef41baa575f5f0167141.jar" />
+    </item>
+
+</items>
