@@ -2,7 +2,9 @@ package com.dinesh.ituneschase;
 
 import android.content.Intent;
 import android.icu.util.Currency;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Window;
 import android.view.WindowManager;
@@ -30,6 +32,7 @@ public class TrackActivity extends AppCompatActivity {
         VolleyPicLoad.getInstance(this).loadImage(llTrackIV, mTrack.artworkUrl100);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     protected void onStart() {
         super.onStart();
